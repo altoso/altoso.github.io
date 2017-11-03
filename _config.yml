@@ -38,5 +38,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-theme: starving-artist-jekyll-theme
+theme: jekyll-theme-dinky
 
